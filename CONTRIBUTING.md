@@ -6,8 +6,10 @@ You've found the GitHub repository that contains the source for the Visual Studi
 
 Thank you for your interest in VS Code documentation!
 
-* [Contributing](#contributing)
-* [Documentation intent](#documentation-intent)
+$$
+* [Contributing][def]
+
+$$* [Documentation intent](#documentation-intent)
 * [Repository organization](#repository-organization)
 * [Branches](#branches)
 * [Authoring Tools](#authoring-tools)
@@ -281,3 +283,6 @@ Escape double opening curly braces in code blocks.
     </body>
 </html>
 ```
+
+
+[def]: #contributing
